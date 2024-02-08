@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.eb564152.js",
+    "static/js/592.a8ef0884.chunk.js": "/static/js/592.a8ef0884.chunk.js",
+    "static/media/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys-thumbnail.jpg": "/static/media/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys-thumbnail.d1f9b5d0dc17c4c0cb24.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.eb564152.js.map": "/static/js/main.eb564152.js.map",
+    "592.a8ef0884.chunk.js.map": "/static/js/592.a8ef0884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.eb564152.js"
+  ]
+}
